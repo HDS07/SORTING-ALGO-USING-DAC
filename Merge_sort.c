@@ -1,3 +1,5 @@
+/*Author- Harshdeep
+Date - 09/11/2023*/ 
 #include<stdio.h>
 void array(int arr[],int n){
     for(int i=0;i<n;i++){
