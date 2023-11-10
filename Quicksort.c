@@ -1,4 +1,5 @@
-/*Name- Harshdeep*/
+/*Name- Harshdeep
+Date - 10/11/2023*/
 #include<stdio.h>
 void array(int arr[],int n){
     for(int i=0;i<n;i++){
